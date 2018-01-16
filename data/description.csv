@@ -7,4 +7,4 @@ label,sublabel,description,styles,bgcolor
 資源物 雑誌,,雑古紙を紐で十文字縛る。,img/book.svg,#81d12e
 資源物 びん・缶,,専用のコンテナ容器へ。,img/binkan.svg,#32cd32
 資源物 その他プラ容器包装,,水でゆすいで透明または半透明の袋,img/sonota.svg,#08b925
-ゴミ取集がない日,,この日はゴミの取集はありません,img/sonota.svg,#000000
+ゴミ収集がない日,,この日はゴミの収集はありません,img/sonota.svg,#000000
